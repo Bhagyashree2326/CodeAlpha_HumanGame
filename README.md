@@ -1,7 +1,7 @@
-# Hangman Game
+# Human Game
 
 ## Description
-This is a simple text-based Hangman Game built using Python. The game randomly selects a word from a list of user-entered words. The player guesses one letter at a time to reveal the hidden word. The player has a maximum of 3 incorrect guesses.
+This is a simple text-based Human Game built using Python. The game randomly selects a word from a list of user-entered words. The player guesses one letter at a time to reveal the hidden word. The player has a maximum of 3 incorrect guesses.
 
 ## Features
 - Enter 4 words.
@@ -27,14 +27,14 @@ This is a simple text-based Hangman Game built using Python. The game randomly s
 2. Open the project folder.
 3. Run the following command:
    ```bash
-   python hangman.py
+   python human.py
    ```
 4. Enter 4 words when prompted.
 5. Start guessing the hidden word.
 
 ## Sample Output
 ```text
-===== HANGMAN GAME =====
+===== HUMAN GAME =====
 
 Word: _ _ _ _ _
 
